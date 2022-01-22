@@ -1,0 +1,120 @@
+.bosluk {
+  margin-top: 10px !important;
+}
+
+.body {
+  line-height: 2em;
+}
+
+.img {
+  width: 750px;
+  height: 100ch;
+}
+
+.PhotoGalleryText {
+  color: #d00cf7 !important;
+  margin-left: 30%;
+  padding-top: 50px;
+  text-decoration: underline;
+  letter-spacing: 5px;
+  word-spacing: 10px !important;
+}
+
+.PhotoGalleryTextTwo {
+  color: #615963 !important;
+  margin-left: 4%;
+  padding-bottom: 20px !important;
+  text-decoration: underline;
+  letter-spacing: 5px;
+  word-spacing: 10px !important;
+}
+.foto {
+  position: absolute !important;
+  white-space: nowrap !important;
+  overflow: hidden !important;
+}
+
+.input {
+  margin-left: 45%;
+}
+
+.abc label:valid {
+  margin-left: 50%;
+}
+
+.PhotoGalleryTextThree {
+  color: #171718 !important;
+  margin-left: 30%;
+
+  text-size-adjust: unset !important;
+  font-size: 14px;
+}
+
+.confirm {
+  margin-left: 32% !important;
+  margin-top: 40px !important;
+}
+
+.button {
+  background-color: #ee00b2;
+  border: none;
+  color: white;
+  padding: 10px 52px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 6px 2px;
+  cursor: pointer;
+  margin-left: 22% !important;
+  line-height: 0.15;
+  border-radius: 10px;
+}
+
+.p {
+  margin-left: 50% !important;
+  color: rgb(4, 0, 253);
+  font-size: 15px;
+}
+
+.span {
+  color: rgb(132, 132, 168);
+  font-weight: bold;
+}
+
+.info,
+.success,
+.warning,
+.error,
+.validation {
+  border: 1px solid;
+  margin: 10px 0px;
+  padding: 15px 10px 15px 50px;
+  background-repeat: no-repeat;
+  background-position: 10px center;
+}
+.info {
+  color: #00529b;
+  background-color: #bde5f8;
+  background-image: url("https://i.imgur.com/ilgqWuX.png");
+}
+.success {
+  color: #4f8a10;
+  background-color: #dff2bf;
+  background-image: url("https://i.imgur.com/Q9BGTuy.png");
+}
+.warning {
+  color: #9f6000;
+  background-color: #feefb3;
+  background-image: url("https://i.imgur.com/Z8q7ww7.png");
+}
+.error {
+  color: #d8000c;
+  background-color: #ffbaba;
+  background-image: url("https://i.imgur.com/GnyDvKN.png");
+}
+.validation {
+  color: #d63301;
+  background-color: #ffccba;
+  background-image: url("https://i.imgur.com/GnyDvKN.png");
+}

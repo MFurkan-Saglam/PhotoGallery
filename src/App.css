@@ -2,6 +2,14 @@
   text-align: center;
 }
 
+.bosluk { 
+  margin-top: 10px ! important;
+  margin-left: 100px !important;
+ 
+}
+
+/*.bosluk1 { margin-top: -20px; }*/
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;

@@ -1,0 +1,41 @@
+.menuItem {
+  margin-top: 50px !important;
+}
+
+.ui.vertical.menu {
+  width: 11rem !important;
+  height: 120rem !important;
+  text-align: left !important;
+  margin-top: 100px !important;
+}
+
+.ui.menu {
+  font-size: 0.1rem;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  min-width: 120px !important;
+  background: rgb(223, 197, 197) !important;
+  font-family: Lato, "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-size: 10px !important;
+  line-height: 9.4285em !important;
+  color: rgba(0, 0, 0, 0.87);
+}
+
+.ui.vertical.menu {
+  display: block;
+  flex-direction: column;
+  background: #f0c4c4 !important;
+  box-shadow: 10px 10px 100px !important;
+}
+
+.buttonn {
+  width: 120px;
+  box-shadow: 3px 3px 3px !important;
+  font-size: 20px;
+  color: rgb(2, 112, 238);
+  background-color: rgb(126, 6, 56);
+}
